@@ -2,6 +2,9 @@
 
 To see the final version of the portfolio: https://reactsanityportfolio.netlify.app/
 
+## Getting Started
+![Main](screenshot/main.png)
+
 ## Available Scripts
 
 #### You should add your sanity project ID in client.js file
