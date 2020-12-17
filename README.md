@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Sanity - React - Tailwind Portfolio Website
 
 To see the final version of the portfolio: https://reactsanityportfolio.netlify.app/
 
