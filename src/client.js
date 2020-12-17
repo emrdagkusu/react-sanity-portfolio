@@ -1,6 +1,6 @@
 import sanityClient from '@sanity/client';
 
 export default sanityClient({
-  projectId: '6d6rcaxt',
+  projectId: process.env.REACT_APP_PROJECT_ID,
   dataset: 'production',
 });
